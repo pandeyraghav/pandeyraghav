@@ -61,10 +61,16 @@
 ---
 
 ## 📫 Contact Me
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav%20Pandey-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeyraghav/)  
-[![Email](https://img.shields.io/badge/Email-raghavpandey@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavpandey2022@gmail.com)
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pandeyraghav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Pandey-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raghavpandey2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raghavpandey2022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
